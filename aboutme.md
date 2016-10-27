@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm an API guy. I started my professional career as SDK developer and I create dev tools since then. I'm fascinated by beautiful APIs and do believe that the right interface makes the difference and it is the most important factor of developers productivity. All sorts of APIs matter - from method contract to web service URL template.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Currently I'm really interested in DevOps trend and its applicability for Microsoft platform. I'm an active implementer of new techniques in my teams and constantly in search of more effective ways of doing our work.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm still looking though :)
