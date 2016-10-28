@@ -43,4 +43,4 @@ as follows:
 I am going to keep this post up to date and add links to subsequent posts in the series
 as I write them. So far I see "the roadmap" as follows:
 
- * Case study of a legacy project
+ * [A Legacy Project - Case Study and a bit of history]({% post_url 2016-10-27-case-study %})
